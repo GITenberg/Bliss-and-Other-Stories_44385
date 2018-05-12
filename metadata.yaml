@@ -1,0 +1,38 @@
+_repo: Bliss-and-Other-Stories_44385
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44385-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mansfield, Katherine
+    aliases:
+    - Murry, Kathleen Beauchamp
+    - Beauchamp, Kathleen M. (Kathleen Mansfield)
+    - Berry, Matilda
+    - Bowden, Kathleen
+    birthdate: 1888
+    deathdate: 1923
+    gutenberg_agent_id: '631'
+    url: http://www.gutenberg.org/2009/agents/631
+    wikipedia: http://en.wikipedia.org/wiki/Katherine_Mansfield
+description: ''
+gutenberg_issued: '2013-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44385'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'New Zealand -- Social life and customs -- Fiction'
+- !lcsh 'Europe -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, New Zealand'
+tableOfContents: Prelude -- Je ne parle pas français -- Bliss -- The wind blows --
+  Psychology -- Pictures -- The man without a temperament -- Mr. Reginald Peacock's
+  day -- Sun and moon -- Feuille d'album -- A dill pickle -- The little governess
+  -- Revelations -- The escape.
+title: Bliss, and Other Stories
+url: http://www.gutenberg.org/ebooks/44385
